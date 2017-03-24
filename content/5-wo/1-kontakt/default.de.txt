@@ -1,0 +1,34 @@
+Title: Kontakt
+
+----
+
+Description: 
+
+----
+
+Text-left: 
+
+##Schillinger & Pankratz GmbH
+
+Westerbachstraße 47
+60489 Frankfurt/Main
+
+Fon:	+49 (69) 87 000 69 10	
+Fax:	+49 (69) 87 000 69 11	
+Email:	info@schillinger-pankratz.com
+
+----
+
+Text-right: 
+
+###Geschäftsführer
+
+Christian Pankratz | Michael Schillinger
+
+Amtsgericht Frankfurt, HRB 89411
+Steuernummer:	047 244 20002	
+UID Nummer:	DE 274 088 421
+
+----
+
+Slider: atp2014.jpg

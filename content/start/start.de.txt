@@ -1,0 +1,17 @@
+Title: Start
+
+----
+
+Description: 
+
+----
+
+Slider: 01_mb.jpg,02_atp01.jpg,03_trophy.jpg,04_federer.jpg,05_mb_theopen.jpg,06_mbctf2015.jpg,07_rc2010.jpg,08_wta01.jpg,09_mtwf-2015b.jpg,10_deko.jpg,11_karo.jpg,12_carts.jpg
+
+----
+
+Relatedpage: was/leistungsspektrum
+
+----
+
+Relatedpagelabel: Unser Leistungsspektrum und unsere Projekte

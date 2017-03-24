@@ -1,0 +1,32 @@
+Title: Mercedes-Benz Sternfahrt
+
+----
+
+Projectname: Mercedes-Benz Sternfahrt
+
+----
+
+Projectclient: Daimler AG, Sports Communications
+
+----
+
+Projectcontent: 
+
+Conceptualization, implementation
+
+----
+
+Text:
+
+*   “On the road to Berlin!” Every year Mercedes-Benz invites 50 car enthusiasts to drive to Berlin in their cars.
+*    There, the Mercedes-Benz “Star Drivers” take part in an exclusive program of events centered around the German Cup Final.
+*    An open bidding process, in cooperation with significant media partners, and a nationwide distribution of highlights in TV, radio, print and online media ensures broad media coverage.
+*    **Schillinger & Pankratz** conceptualizes, plans and implements the “Sternfahrt”.
+
+----
+
+Description: 
+
+----
+
+Slider: sternfahrt-2011-2.jpg,sternfahrt-2011.jpg,sternfahrt_6.jpg

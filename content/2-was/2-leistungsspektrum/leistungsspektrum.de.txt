@@ -1,0 +1,72 @@
+Title: Leistungsspektrum
+
+----
+
+Description: 
+
+----
+
+Text: 
+
+** s | p mindset** 
+**innovativ und ideenreich**
+
+Unsere multidisziplinären Teams arbeiten Hand in Hand und bauen so die Brücke zwischen Denken und Handeln. 
+Das versetzt uns in die Lage, auch tatsächlich liefern zu können. **Wir leisten Full-Premium-Service!**
+
+----
+
+Slider: leistungsspektrum.jpg
+
+----
+
+Text-left: 
+
+----
+
+Text-right: 
+
+----
+
+Builder: 
+
+- 
+  serviceicon: sp_concepts.png
+  servicetitle: 'S&P concepts'
+  servicetext: |
+    ## Konzeption & Kreation
+    
+    Wir glauben an die Macht einer guten Idee.
+    Wir glauben, dass Marketing kein Selbstzweck ist und Kommunikation keine Einbahnstraße.
+  _fieldset: teaserBox
+  rootpage: /
+- 
+  serviceicon: sp_consulting.png
+  servicetitle: 'S&P consulting'
+  servicetext: |
+    ## Beratung & Strategie
+    
+    Wir glauben an die Kunst des Zuhörens und gleichzeitig an die Kraft der unabhängigen Perspektive.
+    Wir glauben an das Wissen um die großen Zusammenhänge und  gleichzeitig daran, Komplexität auf ein gesundes Maß reduzieren zu können.
+  _fieldset: teaserBox
+  rootpage: /
+- 
+  serviceicon: sp_evaluations.png
+  servicetitle: 'S&P evaluations'
+  servicetext: |
+    ## Marktforschung & Erfolgskontrolle
+    
+    Wir glauben, dass wir unsere Erfolge messbar machen können und müssen.
+    Wir glauben an das Optimierungspotential, das jedem Erfolg zu Grunde liegt.
+  _fieldset: teaserBox
+  rootpage: /
+- 
+  serviceicon: sp_operations.png
+  servicetitle: 'S&P operations'
+  servicetext: |
+    ## Projektmanagement & Umsetzung
+    
+    Wir glauben daran, dass Flugzeuge nicht nur unter tosendem Applaus gestartet, sondern auch wieder sicher gelandet werden müssen.
+    Wir glauben, dass erst perfekte Umsetzung einer Marketing-/Kommunikationsidee die nötige Strahlkraft verleiht.
+  _fieldset: teaserBox
+  rootpage: /

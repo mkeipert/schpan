@@ -1,0 +1,35 @@
+Title: Impressum
+
+----
+
+Description: 
+
+----
+
+Text: 
+
+#Kontakt und Impressum
+
+Schillinger & Pankratz GmbH
+Westerbachstraße 47
+60489 Frankfurt/Main
+
+Fon: 	+49 (69) 87 000 69 10
+Fax: 	+49 (69) 87 000 69 11
+Email: 	info@schillinger-pankratz.com
+
+##Geschäftsführer
+
+Christian Pankratz | Michael Schillinger
+
+Amtsgericht Frankfurt, HRB 89411
+Steuernummer: 	047 244 20002
+UID Nummer: 	DE 274 088 421
+
+Inhaltlich Verantwortlicher gemäß § 55 Abs. 2 RStV: Christian Pankratz, Michael Schillinger (Anschrift wie oben)
+Haftungshinweis: Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für die Inhalte externer Links.
+Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.
+
+----
+
+Slider: impressum3_sw.jpg

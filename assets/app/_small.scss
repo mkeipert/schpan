@@ -1,0 +1,69 @@
+
+@media screen and (max-width:$widthMedium) {
+
+	.elevator {
+		display: none;
+		position: absolute;
+		width: 100%;
+		min-height: 100%;
+		left: 0;
+		top: 0;
+		background: $primaryColor;
+		padding: $defaultMargin*2 $defaultMargin;
+
+		.headline {
+			font-family: 'Amatic SC', cursive;
+			color: white;
+			text-align: center;
+
+			h1 {
+				font-size: 3em;
+				line-height: 1em;
+			}
+
+			h2 {
+				font-size: 1em;
+				line-height: 1em;
+			}
+		}
+
+		.col_1 {
+			color: white;
+		}
+
+		.col_0 {
+			text-transform: uppercase;
+			color: white;
+			font-weight: bold;
+		}
+		a {
+
+		&:visited, &:link {
+			padding: $defaultMargin;
+			text-decoration: none;
+			display: block;
+			margin: $defaultMargin 0;
+			color: $baseColor;
+		}
+
+		&:hover, &:focus, &:active {
+			background: lighten($baseColor, 90%);
+			
+			.col_1, .col_0 {
+				color: $primaryColor;
+			}
+
+		}
+		}
+
+	}
+	
+	.elevatorClose {
+		display: none;
+		position: absolute;
+		right: $defaultMargin;
+		top: $defaultMargin;
+	}
+}
+
+			

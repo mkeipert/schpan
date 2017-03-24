@@ -1,0 +1,85 @@
+nav {
+	display: none;
+
+	a {
+		text-decoration: none;
+	}
+}
+
+.slicknav_menu {
+	display: block;
+	position: fixed;
+	width: 100%;
+	z-index: 200;
+	background: $baseColor;
+	text-transform: uppercase;
+
+	.slicknav_menutxt {
+		color: $white;
+		text-shadow: none;
+
+	}
+
+	a {
+	
+		&.logo {
+			text-decoration: none;
+			position: absolute;
+			top: 15px;
+			left: $defaultMargin;
+			width: 65%;
+			max-width: 300px;
+		}
+	}
+}	
+
+.slicknav_btn {
+	background: $primaryColor;
+	color: white;
+	@include rounded(0);
+}
+
+.slicknav_nav {
+
+	a:link, a:visited {
+		color: $primaryColor;
+	}
+
+}
+
+
+#languages {
+	position: absolute;
+	bottom: $defaultMargin;
+	right: $defaultMargin *6;
+	text-transform: uppercase;
+
+	li {
+		display: inline;
+		padding: 0 0 0 0.5em;
+		border-right: 1px solid $primaryColor;
+		line-height: 1em;
+		text-align: center;
+
+		&:nth-last-child(1) {
+			border: none;
+		}
+
+		a {
+			text-decoration: none;
+		}
+	}
+
+	&.home {
+		position: fixed;
+		right: $defaultMargin;
+	}
+}
+
+
+
+.fa-question-circle {
+	color: $white;
+	cursor: pointer;
+	font-size: 6em !important;
+}

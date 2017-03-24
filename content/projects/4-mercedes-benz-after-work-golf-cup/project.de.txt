@@ -1,0 +1,34 @@
+Title: Mercedes-Benz After Work Golf Cup
+
+----
+
+Projectname: Mercedes-Benz After Work Golf Cup
+
+----
+
+Projectclient: Mercedes-Benz Vertrieb Deutschland
+
+----
+
+Projectcontent: Konzeption, Planung und Umsetzung
+
+----
+
+Text: 
+
+* Titelsponsorship der größten deutschen Golfturnierserie mit über 2.800 Turnieren in ca. 220 Golfclubs
+* Beratung des Kunden bei der Erweiterung der bestehenden und etablierten Golfengagements zur Erreichung jüngerer Zielgruppen.
+* **Schillinger & Pankratz** ist verantwortlich für die Anpassung des bestehenden Konzeptes an die Anforderungen des Titelsponsors Mercedes-Benz, sowie für Weiterentwicklung, und Kommunikation des Engagements.
+* Relaunch der Website www.awgc.de und des Facebook-Auftritts
+
+----
+
+Description: 
+
+----
+
+Slider: awgc_01.jpg,awgc_02.jpg,awgc_03.jpg,awgc_04.jpg,awgc_05.jpg,awgc_06.jpg
+
+----
+
+Category: s-p-concepts

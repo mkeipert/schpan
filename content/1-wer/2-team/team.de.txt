@@ -1,0 +1,13 @@
+Title: Team
+
+----
+
+Description: 
+
+----
+
+Text: 
+
+----
+
+Slider: team.jpg

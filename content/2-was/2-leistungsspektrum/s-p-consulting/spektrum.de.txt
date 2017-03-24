@@ -1,0 +1,39 @@
+Title: 1. S&P consulting
+
+----
+
+Description: 
+
+----
+
+Text: 
+
+###Beratung & Strategie
+
+Wir glauben an die Kunst des Zuhörens und gleichzeitig an die Kraft der unabhängigen Perspektive.
+
+Wir glauben an das Wissen um die großen Zusammenhänge und  gleichzeitig daran, Komplexität auf ein gesundes Maß reduzieren zu können.
+
+----
+
+Slider: 
+
+----
+
+Text-left: 
+
+----
+
+Text-right: 
+
+----
+
+Iconstandard: sp_consulting.png
+
+----
+
+Iconhover: sp_consulting_green.png
+
+----
+
+Iconhigh: sp_consulting_green_kurz.png

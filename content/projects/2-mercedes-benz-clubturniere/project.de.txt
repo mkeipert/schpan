@@ -1,0 +1,33 @@
+Title: Mercedes-Benz Clubturniere
+
+----
+
+Projectname: Mercedes-Benz Clubturniere
+
+----
+
+Projectclient: Mercedes-Benz Vertrieb Deutschland
+
+----
+
+Projectcontent: Über 40 Turniere + Deutschland Finale
+
+----
+
+Text: 
+
+* Neben der MercedesTrophy die zweite Säule des Mercedes-Benz Golfengagements in Deutschland.
+* Über 40 offene Clubturniere und eine mehrtägige Finalveranstaltung werden von Schillinger & Pankratz organisiert und betreut.
+* Die Mercedes-Benz Clubturniere sind durch Ihren besonderen Spielmodus und die perfekte Integration von Produkten in vielen Golfclubs Deutschlands die beliebtesten Turniere des Jahres.
+
+----
+
+Description: 
+
+----
+
+Slider: trophy_01.jpg,trophy_03.jpg,trophy_04.jpg
+
+----
+
+Category: s-p-consulting

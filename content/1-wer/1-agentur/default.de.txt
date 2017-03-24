@@ -1,0 +1,43 @@
+Title: Agentur
+
+----
+
+Description: Wir sind für nationale und internationale Kunden beratend tätig, entwickeln ganzheitliche Kommunikationskonzepte und setzen spannende Marketingprojekte in die Tat um. Wir fokussieren uns hierbei auf das Sport- und Kulturbusiness im Premiumsegment.
+
+----
+
+Text: 
+
+## Hallo und Willkommen 
+
+## @schillinger&pankratz it‘s all about PREMIUM!
+
+Als inhabergeführte Agentur sind wir spezialisiert auf Marketing- und Kommunikationslösungen 
+für Premiummarken mit Premiumzielgruppen im Sport-, Kultur- und CSR-Bereich.
+
+In Frankfurt/Main „dahaam“, in der Welt zu Hause!
+
+Seit 2010 agieren wir von Frankfurt aus mit einem inzwischen 16-köpfigen Spezialisten-Team. 
+Ergänzt durch unser Netzwerk sind wir immer da, immer nah für unsere Kunden - auf nationaler und internationaler Ebene.
+
+----
+
+Slider: s_u_p.jpg
+
+----
+
+Text-left: 
+
+## Hallo und Willkommen 
+## @schillinger&pankratz it‘s all about PREMIUM!
+
+----
+
+Text-right: 
+
+Als inhabergeführte Agentur sind wir spezialisiert auf Marketing- und Kommunikationslösungen für Premiummarken mit Premiumzielgruppen im Sport-, Kultur- und CSR-Bereich.
+
+In Frankfurt/Main „dahaam“, in der Welt zu Hause!
+
+Seit 2010 agieren wir von Frankfurt aus mit einem inzwischen 16-köpfigen Spezialisten-Team. 
+Ergänzt durch unser Netzwerk sind wir immer da, immer nah für unsere Kunden - auf nationaler und internationaler Ebene.

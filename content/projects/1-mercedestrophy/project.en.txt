@@ -1,0 +1,33 @@
+Title: Mercedes Trophy
+
+----
+
+Projectname: MercedesTrophy
+
+----
+
+Projectclient: Mercedes-Benz, Germany
+
+----
+
+Projectcontent: 
+
+13 tournaments + 1 national final
+
+----
+
+Text:
+
+* Global Customer Care Golf tournaments on an annual basis for Mercedes-Benz. 
+* 13 highly esteemed, invitation-only tournaments in Germany and a multi-day final form the core of this project.
+* **Schillinger & Pankratz** is responsible for the conceptualization and implementation of the events, as well as for providing media coverage.
+* Great effort is taken each year via creative processes to ensure that the Mercedes-Benz brand values and products can be rightfully experienced.
+
+----
+
+Description: 
+
+
+----
+
+Slider: trophy_01.jpg,trophy_03.jpg,trophy_04.jpg,trophy_05.jpg,trophy_07.jpg,trophy_08.jpg,trophy_09.jpg,trophy_11.jpg

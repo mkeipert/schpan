@@ -1,0 +1,34 @@
+Title: Mercedes-Benz Sternfahrt
+
+----
+
+Projectname: Mercedes-Benz Sternfahrt
+
+----
+
+Projectclient: Daimler AG, Sportkommunikation International
+
+----
+
+Projectcontent: XXX
+
+----
+
+Text: 
+
+* Unter dem Motto „Berlin, Berlin wir fahren nach Berlin!“ lädt Mercedes-Benz jedes Jahr 50 Fahrzeugliebhaber ein, mit ihrem eigenen Auto nach Berlin zu fahren.
+* Dort erwartet die Sternfahrer ein exklusives Rahmenprogramm rund um das DFB-Pokalendspiel.
+* Eine Ausschreibung in Kooperation mit starken Medienpartnern und die bundesweite Distribution von Highlightformaten in TV-, Radio-, Print- und Onlinemedien sorgen für ein breites Medienecho.
+* **Schillinger & Pankratz** plant und implementiert die Sternfahrt.
+
+----
+
+Description: 
+
+----
+
+Slider: sternfahrt-2011-2.jpg,sternfahrt-2011.jpg,sternfahrt_6.jpg
+
+----
+
+Category: s-p-evaluations

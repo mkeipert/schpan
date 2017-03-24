@@ -1,0 +1,29 @@
+Title: Agency
+
+----
+
+Description: We provide consulting for national and international clients, develop comprehensive communications concepts and fully implement stimulating marketing projects. Our focus is on the sport and cultural business in the premium segment.
+
+----
+
+Text: 
+
+#We are Schillinger & Pankratz! 
+
+We provide consulting for national and international clients, develop comprehensive communications concepts and fully implement stimulating marketing projects. Our focus is on the sport and cultural business in the premium segment. 
+
+##Our credo:
+
+Perfection comes from loving what you do. 
+
+When active for our clients, we give the full 100 percent. A specialized and methodical competence, combined with many years of experience as well as valuable insights and networks form the basis of our work.
+
+Boundless creativity, a deep passion for the work and an attention to detail is what we promise.
+
+----
+
+Slider: s_u_p.jpg
+
+----
+
+Url-key: agency

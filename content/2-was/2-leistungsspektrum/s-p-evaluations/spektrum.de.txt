@@ -1,0 +1,31 @@
+Title: 4. S&P evaluations
+
+----
+
+Description: 
+
+----
+
+Text: 
+
+###Marktforschung & Erfolgskontrolle
+
+Wir glauben, dass wir unsere Erfolge messbar machen können und müssen.
+
+Wir glauben an das Optimierungspotential, das jedem Erfolg zu Grunde liegt.
+
+----
+
+Slider: 
+
+----
+
+Iconstandard: sp_evaluations.png
+
+----
+
+Iconhover: sp_evaluations_green.png
+
+----
+
+Iconhigh: sp_evaluations_green_kurz.png

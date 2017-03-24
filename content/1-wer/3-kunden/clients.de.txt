@@ -1,0 +1,21 @@
+Title: Kunden und Projekte
+
+----
+
+Text: 
+
+----
+
+Description: 
+
+----
+
+Slider: marcel.jpg
+
+----
+
+Relatedpage: was/leistungsspektrum
+
+----
+
+Relatedpagelabel: Mehr erfahren über einzelne Projekte: Unser Leistungsspektrum

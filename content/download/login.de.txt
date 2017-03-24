@@ -1,0 +1,9 @@
+title: Zugang zum Downloadbereich
+----
+alert: Invalid username or password
+----
+username: Nutzername
+----
+password: Passwort
+----
+button: Login

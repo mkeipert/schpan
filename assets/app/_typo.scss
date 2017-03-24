@@ -1,0 +1,48 @@
+a {
+	&:link, &:visited {
+		color: $white; 
+		@include transition(all);
+	}
+
+	&:hover, &:focus, &:active {
+		color: $primaryColor;
+	}
+}
+
+h1 {
+	font-size: 1.3rem;
+	font-weight: bold;
+	margin: $defaultMargin auto;
+}
+
+h2 {
+	@extend h1;
+	font-size: $defaultFontSize * 2;
+}
+
+h3, h4, h5, h6 {
+	font-size: 0.9rem;
+	font-weight: bold;
+	margin: $defaultMargin auto $defaultMargin / 2 auto;
+}
+
+p {
+	margin-bottom: $defaultMargin / 2;
+}
+
+strong {
+	font-weight: bold;
+}
+
+em {
+	font-style: italic;
+}
+
+article {
+
+	li {
+		list-style: circle;
+		list-style-position: outside;
+		margin-left: 15px;
+	}
+}

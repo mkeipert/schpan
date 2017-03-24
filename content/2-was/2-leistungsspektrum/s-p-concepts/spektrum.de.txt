@@ -1,0 +1,27 @@
+Title: 2. S&P concepts
+
+----
+
+Description: 
+
+----
+
+Text: 
+
+###Konzeption & Kreation
+
+Wir glauben an die Macht einer guten Idee. 
+
+Wir glauben, dass Marketing kein Selbstzweck ist und Kommunikation keine Einbahnstraße.
+
+----
+
+Iconstandard: sp_concepts.png
+
+----
+
+Iconhover: sp_concepts_green.png
+
+----
+
+Iconhigh: sp_concepts_green_kurz.png

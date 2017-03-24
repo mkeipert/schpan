@@ -1,0 +1,31 @@
+Title: ATP World Tour
+
+----
+
+Projectname: ATP World Tour
+
+----
+
+Projectclient: ATP
+
+----
+
+Projectcontent: 
+
+Responsible for global branding
+
+----
+
+Text:
+
+ * In 2009 the ATP installed a new high-tech tennis net. A prominent in-net design displayed the label of the ATP World Tour such that it was fully visible on TV – a new, innovative marketing medium for the sport of tennis.
+ * **Schillinger & Pankratz**, which is partnered with the licensor and patent holder, advises the ATP, and is responsible for the production, coordination and global distribution.
+ * Additionally, Schillinger & Pankratz coordinates the production and distribution of the global tennis branding for the Corona brand.
+
+----
+
+Description: 
+
+----
+
+Slider: atp_01.jpg,atp_010.jpg,atp_02.jpg,atp_03.jpg,atp_04.jpg,atp_05.jpg,atp_09.jpg,atp_10.jpg,atp_11.jpg,atp_12.jpg

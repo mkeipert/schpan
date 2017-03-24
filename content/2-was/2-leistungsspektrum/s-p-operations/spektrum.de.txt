@@ -1,0 +1,31 @@
+Title: 3. S&P operations
+
+----
+
+Description: 
+
+----
+
+Text: 
+
+###Projektmanagement & Umsetzung
+
+Wir glauben daran, dass Flugzeuge nicht nur unter tosendem Applaus gestartet, sondern auch wieder sicher gelandet werden müssen.
+
+Wir glauben, dass erst perfekte Umsetzung einer Marketing-/Kommunikationsidee die nötige Strahlkraft verleiht.
+
+----
+
+Slider: 
+
+----
+
+Iconstandard: sp_operations.png
+
+----
+
+Iconhover: sp_operations_green.png
+
+----
+
+Iconhigh: kurz.png

@@ -1,0 +1,31 @@
+Title: RC Deutschland
+
+----
+
+Projectname: bewerbung Ryder Cup 2018
+
+----
+
+Projectclient: RC Deutschland GmbH
+
+----
+
+Projectcontent: 
+
+Konzeption Bewerbungskampagne
+
+----
+
+Text:
+
+ * Deutschland hat sich um den Ryder Cup 2018 beworben. Hinter der Bewerbungsgesellschaft standen die wichtigsten Player des deutschen Golfmarktes: Der Deutsche Golf Verband, die Professional Golf AG, Langer Sport Marketing und die Vereinigung clubfreier Golfer bildeten eine starke Allianz.
+ * Michael Schillinger war als Leiter der Bewerbungskampagne für die gesamte Konzeption und Umsetzung verantwortlich.
+ * Im Fokus standen: Recherche und Erstellung Texte für die offizielle Bewerbungsunterlage, Konzeption und Umsetzung PR-Maßnahmen, Marketingmaßnahmen, Layout und Grafikleistungen.
+
+----
+
+Description: 
+
+----
+
+Slider: rcd_1.jpg,rcd_3.jpg,rcd_5.jpg

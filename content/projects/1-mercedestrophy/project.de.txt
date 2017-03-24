@@ -1,0 +1,34 @@
+Title: Mercedes Trophy
+
+----
+
+Projectname: MercedesTrophy
+
+----
+
+Projectclient: Mercedes-Benz Vertrieb Deutschland
+
+----
+
+Projectcontent: 13 Turniere + Deutschland Finale
+
+----
+
+Text: 
+
+* Globale und jährlich stattfindende Customer Care Golfturnierserie der Marke Mercedes-Benz.
+* Hochwertige Kunden-Einladungsturniere in Deutschland und ein mehrtägiges Deutschland-Finale prägen die Arbeit.
+* Schillinger & Pankratz ist verantwortlich für die Konzeption, Umsetzung und Kommunikation des Engagements.
+* Jedes Jahr sorgen kreative Ideen dafür, dass die Produkte sowie Markenwerte von Mercedes-Benz erlebbar werden
+
+----
+
+Description: 
+
+----
+
+Slider: trophy_01.jpg,trophy_03.jpg,trophy_04.jpg,trophy_05.jpg,trophy_07.jpg,trophy_08.jpg,trophy_09.jpg,trophy_11.jpg
+
+----
+
+Category: s-p-consulting, s-p-evaluations, s-p-concepts, s-p-operations

@@ -1,0 +1,20 @@
+Title: S&P Werte
+
+----
+
+Description: 
+
+----
+
+Text-left: ## verbindlich & ehrlich. hingebungsvoll & akribisch-professionell. mutig & kreativ.
+
+----
+
+Text-right: 
+
+Für diese Werte stehen wir. Diese Werte leben wir. Diese Werte verteidigen wir.
+Untereinander. Mit Partnern. Mit Kunden.
+
+----
+
+Slider: s_u_p.jpg
